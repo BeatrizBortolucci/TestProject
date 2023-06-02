@@ -1,7 +1,14 @@
 h1{
     text-align: center;
     color: black;
+    margin: 0;
 }
 img{
-    margin-left: 250px;
+    display: block;
+    width: 38vw;
+    margin: auto;
+
+}
+h2{
+    text-align: center;
 }
